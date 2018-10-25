@@ -2,15 +2,16 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-    char vstup[40];
+    char vstup, cislo;
 
 //    printf("daj cislo>");
     scanf("%s", &vstup);
 
-    if (strlen(vstup) != 1) {
+    if (strlen(&vstup) != 1) {
         printf("ml' nob:\nluj\n");
     } else {
-        switch (vstup[0]) {
+        cislo = (&vstup)[0];
+        switch (cislo) {
             case '1':
                 printf("ml' nob:\nQapla'\nnoH QapmeH wo' Qaw'lu'chugh yay chavbe'lu' 'ej wo' choqmeH may' DoHlu'chugh lujbe'lu'.\n");
                 break;
