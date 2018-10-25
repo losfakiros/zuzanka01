@@ -1,0 +1,3 @@
+C:/Users/Radko/CLionProjects/zuzanka01/cmake-build-debug/CMakeFiles/zuzanka01.dir
+C:/Users/Radko/CLionProjects/zuzanka01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Radko/CLionProjects/zuzanka01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
